@@ -1,3 +1,3 @@
-Asignatura de Criptografía y Computación Quantica de la FIB-UPC.
+Asignatura de Criptografía y Computación Cuántica (CCQ de las siglas en catalán) de la FIB-UPC.
 
-He subido los problemas evaluables que mandaba el profesor sobre lo que ibamos haciendo. Hubieron 4 entregas.
+He subido los problemas evaluables que mandaba el profesor sobre lo que íbamos haciendo. Hubo 4 entregas.
